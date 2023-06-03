@@ -1,4 +1,6 @@
-﻿using System;
+﻿using GerenciadorDeEstacionamento.Entidades;
+using GerenciadorDeEstacionamento.Servicos;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +12,9 @@ namespace GerenciadorDeEstacionamento
     {
         static void Main(string[] args)
         {
+            Menu menu = new Menu();
+
+            menu.MenuInicial();
         }
     }
 }

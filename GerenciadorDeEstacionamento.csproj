@@ -43,8 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entidades\Carro.cs" />
+    <Compile Include="Entidades\Estacionamento.cs" />
+    <Compile Include="Menu.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Servicos\ServicoEntrada.cs" />
+    <Compile Include="Servicos\ServicoSaida.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
