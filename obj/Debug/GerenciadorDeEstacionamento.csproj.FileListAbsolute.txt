@@ -1,0 +1,8 @@
+C:\Users\jpsam\source\repos\GerenciadorDeEstacionamento\GerenciadorDeEstacionamento\bin\Debug\GerenciadorDeEstacionamento.exe.config
+C:\Users\jpsam\source\repos\GerenciadorDeEstacionamento\GerenciadorDeEstacionamento\bin\Debug\GerenciadorDeEstacionamento.exe
+C:\Users\jpsam\source\repos\GerenciadorDeEstacionamento\GerenciadorDeEstacionamento\bin\Debug\GerenciadorDeEstacionamento.pdb
+C:\Users\jpsam\source\repos\GerenciadorDeEstacionamento\GerenciadorDeEstacionamento\obj\Debug\GerenciadorDeEstacionamento.csproj.AssemblyReference.cache
+C:\Users\jpsam\source\repos\GerenciadorDeEstacionamento\GerenciadorDeEstacionamento\obj\Debug\GerenciadorDeEstacionamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpsam\source\repos\GerenciadorDeEstacionamento\GerenciadorDeEstacionamento\obj\Debug\GerenciadorDeEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\jpsam\source\repos\GerenciadorDeEstacionamento\GerenciadorDeEstacionamento\obj\Debug\GerenciadorDeEstacionamento.exe
+C:\Users\jpsam\source\repos\GerenciadorDeEstacionamento\GerenciadorDeEstacionamento\obj\Debug\GerenciadorDeEstacionamento.pdb

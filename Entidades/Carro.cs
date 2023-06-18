@@ -43,7 +43,7 @@ namespace GerenciadorDeEstacionamento.Entidades
             const string maranhao_14 = @"^RO[A-Z][0-9][A-Z][0-9][0-9]$";
 
             const string ceara_1 = @"^HT[X-Z][0-9][A-Z][0-9][0-9]$";
-            const string ceara_2 = @"^H[T-Y][A-Z][0-9][A-Z][0-9][0-9]$";
+            const string ceara_2 = @"^H[U-Y][A-Z][0-9][A-Z][0-9][0-9]$";
             const string ceara_3 = @"^HZA[0-9][A-Z][0-9][0-9]$";
             const string ceara_4 = @"^NQ[L-Z][0-9][A-Z][0-9][0-9]$";
             const string ceara_5 = @"^NR[A-E][0-9][A-Z][0-9][0-9]$";
@@ -90,7 +90,7 @@ namespace GerenciadorDeEstacionamento.Entidades
             const string maranhao_14a = @"^RO[A-Z][0-9][0-9][0-9][0-9]$";
 
             const string ceara_1a = @"^HT[X-Z][0-9][0-9][0-9][0-9]$";
-            const string ceara_2a = @"^H[T-Y][A-Z][0-9][0-9][0-9][0-9]$";
+            const string ceara_2a = @"^H[U-Y][A-Z][0-9][0-9][0-9][0-9]$";
             const string ceara_3a = @"^HZA[0-9][0-9][0-9][0-9]$";
             const string ceara_4a = @"^NQ[L-Z][0-9][0-9][0-9][0-9]$";
             const string ceara_5a = @"^NR[A-E][0-9][0-9][0-9][0-9]$";
